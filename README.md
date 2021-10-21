@@ -5,7 +5,7 @@
 # Description of the Rdata:
 - sce_dev.Rdata: data for figure 1B 
 - sce_comp_sub.Rdata: data for figure 1B and 1D
-- all_ENCC_merged3.Rdata: data for figure 1C
+- all_ENCC_merged3.Rdata: data for figure 1C and 1D
 - SAG.Rdata: data for figure 4
 
 # Email
